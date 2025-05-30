@@ -8,6 +8,8 @@
 
 **Scope:** Subscription performance, churn behavior, upgrade paths, customer lifecycle
 
+**Canva Report Link:** [ReelShort Report](https://www.canva.com/design/DAGnfrqOCkw/QVwW4QjtuWxq-rdgeo30vQ/edit?utm_content=DAGnfrqOCkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 
 ## 📖 Project Summary
