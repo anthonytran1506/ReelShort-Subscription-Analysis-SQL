@@ -2,7 +2,7 @@
 
 **Prepared by:** Nguyen Khanh Toan (Anthony) Tran
 
-**Platform:** [ReelShort](https://reelshort.com) — Mobile-first short-form video streaming
+**Platform:** [ReelShort](https://reelshort.com) - Mobile-first short-form video streaming
 
 **Reporting Period:** Full year 2020 until 30/04/2021
 
@@ -14,7 +14,7 @@
 
 ## 📖 Project Summary
 
-This project delivers a **comprehensive subscription analysis** for ReelShort, a short-form video streaming platform. Using SQL-based analytics, we investigated user behavior, plan transitions, churn patterns, and revenue recognition strategies to support business growth and **data-driven decision-making**.
+This project delivers a **comprehensive subscription analysis** for ReelShort, a short-form video streaming platform. Using SQL-based analytics, we investigated user behaviour, plan transitions, churn patterns, and revenue recognition strategies to support business growth and **data-driven decision-making**.
 
 ### 🔍 Goals:
 
@@ -60,7 +60,7 @@ This project delivers a **comprehensive subscription analysis** for ReelShort, a
 
 | Pathway                   | Description                                                               |
 | ------------------------- | ------------------------------------------------------------------------- |
-| **Trial to Subscription** | Analyze login frequency, content accessed, and trial length               |
+| **Trial to Subscription** | Analyse login frequency, content accessed, and trial length               |
 | **Plan Upgrade Trends**   | Track how users move between Basic, Pro Monthly, and Pro Annual           |
 | **Pre-Churn Signals**     | Identify early warning signs such as reduced activity or feature drop-off |
 
@@ -143,5 +143,5 @@ The analysis highlights **clear business opportunities**:
 
 * Make evidence-based product decisions
 * Understand user behavior deeply
-* Design retention and monetization strategies effectively
+* Design retention and monetisation strategies effectively
 
