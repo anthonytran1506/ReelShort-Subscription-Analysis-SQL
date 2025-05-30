@@ -1,4 +1,4 @@
-# 🎬 ReelShort Subscription Analysis (2020)
+# 🎬 ReelShort Subscription Analysis - SQL
 
 **Prepared by:** Nguyen Khanh Toan (Anthony) Tran
 
