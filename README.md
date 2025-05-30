@@ -108,9 +108,8 @@ This approach allows more accurate estimation of **MRR and revenue fluctuations*
 | Tool                                 | Usage                                             |
 | ------------------------------------ | ------------------------------------------------- |
 | **SQL**                              | Data extraction, filtering, grouping, aggregation |
-| **Simulated Payments Engine**        | Modeled realistic billing flow                    |
 | **SWOT Analysis**                    | Assessed strategic levers to reduce churn         |
-| **Data Visualization** *(Not shown)* | For internal charts and metric dashboards         |
+| **Data Visualization**               | For internal charts and metric dashboards         |
 
 ---
 
